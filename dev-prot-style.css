@@ -1,0 +1,18 @@
+/* universal styles */
+
+*{
+    margin: 0 auto;
+    background-color: azure;
+}
+body{
+    
+        font-family: "Roboto", sans-serif;
+        font-weight: 900;
+        font-style: italic;
+
+}
+/* Nav releted Styles */
+header{
+    display: flex;
+}
+
